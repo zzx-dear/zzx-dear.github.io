@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://zzx-dear.github.io/atom.xml" rel="self"/>
+  <link href="https://zzx-dear.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://zzx-dear.github.io/"/>
+  <link href="https://zzx-dear.github.io/blog/"/>
   <updated>2024-05-10T11:38:18.652Z</updated>
-  <id>https://zzx-dear.github.io/</id>
+  <id>https://zzx-dear.github.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>无敌暴龙队</title>
-    <link href="https://zzx-dear.github.io/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/"/>
-    <id>https://zzx-dear.github.io/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/</id>
+    <link href="https://zzx-dear.github.io/blog/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/"/>
+    <id>https://zzx-dear.github.io/blog/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/</id>
     <published>2024-05-10T11:34:23.000Z</published>
     <updated>2024-05-10T11:38:18.652Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zzx-dear.github.io/2024/05/10/hello-world/"/>
-    <id>https://zzx-dear.github.io/2024/05/10/hello-world/</id>
+    <link href="https://zzx-dear.github.io/blog/2024/05/10/hello-world/"/>
+    <id>https://zzx-dear.github.io/blog/2024/05/10/hello-world/</id>
     <published>2024-05-10T11:31:30.121Z</published>
     <updated>2024-05-10T11:31:30.121Z</updated>
     

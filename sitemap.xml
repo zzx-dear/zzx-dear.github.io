@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zzx-dear.github.io/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/</loc>
+    <loc>https://zzx-dear.github.io/blog/2024/05/10/%E6%97%A0%E6%95%8C%E6%9A%B4%E9%BE%99%E9%98%9F/</loc>
     
     <lastmod>2024-05-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://zzx-dear.github.io/2024/05/10/hello-world/</loc>
+    <loc>https://zzx-dear.github.io/blog/2024/05/10/hello-world/</loc>
     
     <lastmod>2024-05-10</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>https://zzx-dear.github.io/</loc>
+    <loc>https://zzx-dear.github.io/blog</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
