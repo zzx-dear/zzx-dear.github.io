@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>象集与除运算</title>
+      <link href="/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/"/>
+      <url>/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="象集与除运算"><a href="#象集与除运算" class="headerlink" title="象集与除运算"></a><center>象集与除运算</center></h1><p><img src="/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/%E5%9B%BE%E7%89%87%E4%B8%80.jpg" alt="图片一"></p><h2 id="在此简单解释一下象集与除运算的概念"><a href="#在此简单解释一下象集与除运算的概念" class="headerlink" title="在此简单解释一下象集与除运算的概念"></a>在此简单解释一下象集与除运算的概念</h2><h3 id="象集"><a href="#象集" class="headerlink" title="象集"></a>象集</h3><p>课本中的概念：给定一个关系R（X，Z），X 和Z 为属性组。当 t[X] &#x3D; x 时，x 在 R 中的象集(Images Set)为：Zx&#x3D; { t[Z] | t ∈R，t[X] &#x3D; x}，表示R中属性组X上值为x的诸元组在属性组Z上分量的集合。 可以根据上图中Course表来理解，比如Cno属性列的 1 它的象集就是{数据库，5，4};（可以理解为与它在同一行的元素）</p><h3 id="除运算"><a href="#除运算" class="headerlink" title="除运算"></a>除运算</h3><p>课本中的概念：关系R除以S的结果为关系T，则T包含所有在R但不在S中的属性及值，且T的元组与S的元组的所有组合都在R中。</p><p>可以分三步理解:</p><p>第一步：找到在关系R与S中都存在的属性B C</p><p>第二步：在R中选一个S中不存在的属性A并求它下面元素的象集</p><p>第三步：所求象集中与关系S中BC属性完全对的上的组成关系T</p><p><img src="/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/%E5%9B%BE%E7%89%87%E4%BA%8C.jpg" alt="图片二"></p><p>元素a1的象集为{（b1,c2）(b2,c3) (b2,c1)} 可以看到只有a1的象集与关系S中BC属性的元素完全对应 所以R&#x2F;S &#x3D; {a1}</p><h3 id="例题："><a href="#例题：" class="headerlink" title="例题："></a>例题：</h3><p><img src="/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/%E5%9B%BE%E7%89%87%E4%B8%89.jpg" alt="图片三"> </p><p><img src="/2024/06/25/%E8%B1%A1%E9%9B%86%E4%B8%8E%E9%99%A4%E8%BF%90%E7%AE%97/%E5%9B%BE%E7%89%87%E5%9B%9B.jpg" alt="图片四"> </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>进程的创建、终止、阻塞与唤醒</title>
       <link href="/2024/05/25/%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%88%9B%E5%BB%BA%E3%80%81%E7%BB%88%E6%AD%A2%E3%80%81%E9%98%BB%E5%A1%9E%E4%B8%8E%E5%94%A4%E9%86%92/"/>
       <url>/2024/05/25/%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%88%9B%E5%BB%BA%E3%80%81%E7%BB%88%E6%AD%A2%E3%80%81%E9%98%BB%E5%A1%9E%E4%B8%8E%E5%94%A4%E9%86%92/</url>
